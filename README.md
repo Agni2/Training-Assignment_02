@@ -1,6 +1,6 @@
 # Training-Assignment_02
-
-## You are given an integer array A of size N. You can perform the following operation any
+## Problem 2: Array Transformation Cost Minimization
+### You are given an integer array A of size N. You can perform the following operation any
 number of times:
 • Choose any index i and replace A[i] with A[i] + K or A[i] - K, where K is a fixed
 integer.
